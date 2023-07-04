@@ -6,13 +6,11 @@
 
   **🏛️  Studying  🏛️**
 
-언어
+🌱    Most Languages    🌱
 
-![img](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![img](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)![img](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooJuno&layout=compact)  | ![img](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![img](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)![img](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)<br />![img](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)![img](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=Opencv&logoColor=white)![img](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)![img](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-라이브러리
-
-![img](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=Opencv&logoColor=white)![img](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)![img](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 IoT
 
@@ -25,7 +23,3 @@ IoT
 ⚡️  Stats   ⚡️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooJuno&show_icons=true&theme=radical)
-
-  🌱    Most Languages    🌱
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooJuno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
