@@ -6,24 +6,21 @@
 
   **🏛️  Studying  🏛️**
 
-![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![img](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+언어
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![img](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![img](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)![img](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
 
-![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=Opencv&logoColor=white)
+라이브러리
 
-![](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-
+![img](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=Opencv&logoColor=white)![img](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)![img](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 IoT
 
-![](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![img](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)![img](https://img.shields.io/badge/ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-![](https://img.shields.io/badge/ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+이 외...
 
-![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ⚡️  Stats   ⚡️
 
