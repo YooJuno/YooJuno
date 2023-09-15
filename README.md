@@ -2,7 +2,7 @@
 
 ### 👋 안녕하세요 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYooJuno&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-IoT, 임베디드, Computer Vision에 관심이 많은 개발자 입니다.
+IoT, 임베디드, Computer Vision, ROS에 관심이 많은 개발자 입니다.
 
 ### 🌱    **장기자랑**   🌱
 
