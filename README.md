@@ -1,6 +1,7 @@
 # YooJuno
 
-### 👋 안녕하세요 ![Hits](![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FYooJuno&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC))
+### 👋 안녕하세요 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FYooJuno&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+
 
 IoT, 임베디드, Computer Vision, ROS에 관심이 많은 개발자 입니다.
 
