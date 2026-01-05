@@ -11,4 +11,5 @@ IoT, 임베디드, Computer Vision, ROS에 관심이 많은 개발자 입니다.
 
 ### ⚡️  Stats   ⚡️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooJuno&show_icons=true&theme=vision-friendly-dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YooJuno&theme=github_dark)
+
